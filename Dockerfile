@@ -6,4 +6,4 @@ RUN pip install pystrich
 
 CMD [ "python", "./MachineInfo.py" ]
 
-EXPOSE 9000
+EXPOSE 9005
